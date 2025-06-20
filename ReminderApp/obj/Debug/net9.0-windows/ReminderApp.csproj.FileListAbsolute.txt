@@ -1,0 +1,51 @@
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\obj\Debug\net9.0-windows\ReminderDialog.baml
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\obj\Debug\net9.0-windows\MainWindow.g.cs
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\obj\Debug\net9.0-windows\ReminderDialog.g.cs
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\obj\Debug\net9.0-windows\App.g.cs
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\obj\Debug\net9.0-windows\ReminderApp_MarkupCompile.cache
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\obj\Debug\net9.0-windows\ReminderApp_MarkupCompile.lref
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\bin\Debug\net9.0-windows\ReminderApp.exe
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\bin\Debug\net9.0-windows\ReminderApp.deps.json
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\bin\Debug\net9.0-windows\ReminderApp.runtimeconfig.json
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\bin\Debug\net9.0-windows\ReminderApp.dll
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\bin\Debug\net9.0-windows\ReminderApp.pdb
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\obj\Debug\net9.0-windows\MainWindow.baml
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\obj\Debug\net9.0-windows\ReminderApp.g.resources
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\obj\Debug\net9.0-windows\ReminderApp.GeneratedMSBuildEditorConfig.editorconfig
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\obj\Debug\net9.0-windows\ReminderApp.AssemblyInfoInputs.cache
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\obj\Debug\net9.0-windows\ReminderApp.AssemblyInfo.cs
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\obj\Debug\net9.0-windows\ReminderApp.csproj.CoreCompileInputs.cache
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\obj\Debug\net9.0-windows\ReminderApp.dll
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\obj\Debug\net9.0-windows\refint\ReminderApp.dll
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\obj\Debug\net9.0-windows\ReminderApp.pdb
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\obj\Debug\net9.0-windows\ReminderApp.genruntimeconfig.cache
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\obj\Debug\net9.0-windows\ref\ReminderApp.dll
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\obj\Debug\net9.0-windows\ReminderApp.csproj.AssemblyReference.cache
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\bin\Debug\net9.0-windows\Microsoft.Toolkit.Uwp.Notifications.dll
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\obj\Debug\net9.0-windows\Reminder.4FE5CC10.Up2Date
+D:\Work\ReminderApp\ReminderApp\bin\Debug\net9.0-windows\ReminderApp.exe
+D:\Work\ReminderApp\ReminderApp\bin\Debug\net9.0-windows\ReminderApp.deps.json
+D:\Work\ReminderApp\ReminderApp\bin\Debug\net9.0-windows\ReminderApp.runtimeconfig.json
+D:\Work\ReminderApp\ReminderApp\bin\Debug\net9.0-windows\ReminderApp.dll
+D:\Work\ReminderApp\ReminderApp\bin\Debug\net9.0-windows\ReminderApp.pdb
+D:\Work\ReminderApp\ReminderApp\bin\Debug\net9.0-windows\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\Work\ReminderApp\ReminderApp\obj\Debug\net9.0-windows\ReminderApp.csproj.AssemblyReference.cache
+D:\Work\ReminderApp\ReminderApp\obj\Debug\net9.0-windows\ReminderDialog.baml
+D:\Work\ReminderApp\ReminderApp\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\Work\ReminderApp\ReminderApp\obj\Debug\net9.0-windows\ReminderDialog.g.cs
+D:\Work\ReminderApp\ReminderApp\obj\Debug\net9.0-windows\App.g.cs
+D:\Work\ReminderApp\ReminderApp\obj\Debug\net9.0-windows\ReminderApp_MarkupCompile.cache
+D:\Work\ReminderApp\ReminderApp\obj\Debug\net9.0-windows\ReminderApp_MarkupCompile.lref
+D:\Work\ReminderApp\ReminderApp\obj\Debug\net9.0-windows\MainWindow.baml
+D:\Work\ReminderApp\ReminderApp\obj\Debug\net9.0-windows\ReminderApp.g.resources
+D:\Work\ReminderApp\ReminderApp\obj\Debug\net9.0-windows\ReminderApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ReminderApp\ReminderApp\obj\Debug\net9.0-windows\ReminderApp.AssemblyInfoInputs.cache
+D:\Work\ReminderApp\ReminderApp\obj\Debug\net9.0-windows\ReminderApp.AssemblyInfo.cs
+D:\Work\ReminderApp\ReminderApp\obj\Debug\net9.0-windows\ReminderApp.csproj.CoreCompileInputs.cache
+D:\Work\ReminderApp\ReminderApp\obj\Debug\net9.0-windows\ReminderApp.sourcelink.json
+D:\Work\ReminderApp\ReminderApp\obj\Debug\net9.0-windows\Reminder.4FE5CC10.Up2Date
+D:\Work\ReminderApp\ReminderApp\obj\Debug\net9.0-windows\ReminderApp.dll
+D:\Work\ReminderApp\ReminderApp\obj\Debug\net9.0-windows\refint\ReminderApp.dll
+D:\Work\ReminderApp\ReminderApp\obj\Debug\net9.0-windows\ReminderApp.pdb
+D:\Work\ReminderApp\ReminderApp\obj\Debug\net9.0-windows\ReminderApp.genruntimeconfig.cache
+D:\Work\ReminderApp\ReminderApp\obj\Debug\net9.0-windows\ref\ReminderApp.dll

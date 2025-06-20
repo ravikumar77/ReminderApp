@@ -1,0 +1,6 @@
+D:\Work\ReminderApp\ReminderApp\bin\Release\net9.0-windows\publish\ReminderApp.exe
+D:\Work\ReminderApp\ReminderApp\bin\Release\net9.0-windows\publish\ReminderApp.dll
+D:\Work\ReminderApp\ReminderApp\bin\Release\net9.0-windows\publish\ReminderApp.deps.json
+D:\Work\ReminderApp\ReminderApp\bin\Release\net9.0-windows\publish\ReminderApp.runtimeconfig.json
+D:\Work\ReminderApp\ReminderApp\bin\Release\net9.0-windows\publish\ReminderApp.pdb
+D:\Work\ReminderApp\ReminderApp\bin\Release\net9.0-windows\publish\Microsoft.Toolkit.Uwp.Notifications.dll

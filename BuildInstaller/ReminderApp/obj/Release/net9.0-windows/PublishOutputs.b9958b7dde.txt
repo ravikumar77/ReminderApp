@@ -1,0 +1,6 @@
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\bin\Release\net9.0-windows\publish\ReminderApp.exe
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\bin\Release\net9.0-windows\publish\ReminderApp.dll
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\bin\Release\net9.0-windows\publish\ReminderApp.deps.json
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\bin\Release\net9.0-windows\publish\ReminderApp.runtimeconfig.json
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\bin\Release\net9.0-windows\publish\ReminderApp.pdb
+\\midp-oaf-116\FldrRedir_3$\N994992\Data\reminder app\ReminderApp\bin\Release\net9.0-windows\publish\Microsoft.Toolkit.Uwp.Notifications.dll
